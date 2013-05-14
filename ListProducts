@@ -1,0 +1,148 @@
+<html>
+<body bgcolor="ECE5B6">
+
+
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQUTrxf9mgL6xqT5VrzEyKtuW1holPhbsGInqpe3Qpciq6u1GQYQ" width="50" 
+	length="50" border="3"  align="left">
+
+	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQUTrxf9mgL6xqT5VrzEyKtuW1holPhbsGInqpe3Qpciq6u1GQYQ" width="50" 
+	length="50" border="3"  align="right">
+	<br>
+<center><h1><FONT COLOR="FFA500">Candy Shop</FONT></h1></center>
+	
+</br>
+<strong><font color="800517">Mio</font></strong>
+</br>
+
+<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQzXrdYhoQzgzXWeqXZhRMmIOgw5rVZldPDEV5AnV79ETXjQ8Q-g" align="left" border="2">
+
+
+<table border="3" bordercolor="9A2EFE">
+	<tr>
+		<th></th>
+		<th>Amount Left</th>
+		<th>Price per 1</th>
+	</tr>
+	<tr>
+		<td>Grape</td>
+		<td>20</td>
+		<td>$4</td>
+	</tr>
+	<tr>
+		<td>Berry</td>
+		<td>20</td>
+		<td>$4</td>
+	</tr>
+</table>
+
+<br><br><br><br><br><br><br><br>
+
+<strong><font color="800517">Sour Patch Kids</font></strong>
+<br>
+<img src="http://media.tumblr.com/tumblr_l02ij7g9XP1qb7zbm.jpg" align="left" border="2">
+
+	<table border="3" bordercolor="9A2EFE">
+		<tr>
+		
+			<th>Bags Left</th>
+			<th>Price per Bag</th>
+		</tr>
+		<tr>
+			<td>15</td>
+			<td>$8</td>
+	</table>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+<strong><font color="800517">  Jolly Ranchers</font></strong>
+<br>
+
+
+<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnJYqnIJDYYYD0v-geE7PBTmqApyPKiv9NPZr5TDS00nEyQVi6jQ"   align="left" border="2">
+
+	<table border= "3" bordercolor="9A2EFE">
+		<tr>
+			<th>Bags Left</th>
+			<th>Price per Bag</th>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>$10</td>
+		</tr>
+	</table>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<strong><font color="800517">Swedish Fish</font></strong>
+<br>
+<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQO6RbcIJAoUOPI7Y3NnNop6GK80roAMwu9i1AVhzcA4Eh887cO8Q" align="left" border="2">
+
+		<table border= "3" bordercolor="9A2EFE">
+		<tr>
+			<th>Bags Left</th>
+			<th>Price per Bag</th>
+		</tr>
+		<tr>
+			<td>30</td>
+			<td>$10</td>
+		</tr>
+	</table>
+
+<br><br><br><br><br><br><br><br><br><br><br>
+
+<strong><font color="800517">Juicy Fruit</font></strong>
+<br>
+<img src="http://2.bp.blogspot.com/-Rl4o9VJoKo0/T58SUBgKjZI/AAAAAAAAFCk/UFbd_ih_fnw/s1600/juicy-fruit__56242_zoom.jpg" align="left" border="2">
+	
+		<table border="3" bordercolor="9A2EFE">
+			<tr>
+				<th>Packs Left</th>
+				<th>Price per Pack</th>
+		</tr>
+		<tr>
+			<td>30</td>
+			<td>$6</td>
+		</tr>
+	</table>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<strong><font color="800517">Pop Rocks</font></strong>
+<br>
+<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEgWyfAPTYOsf3MNVEHV8VCuEj0f6xEGhVR6dzQCS0cQ0IhedecQ" align="left" border="2">
+		
+		<table border="3" bordercolor="9A2EFE">
+			<tr>
+				<th>Packs Left</th>
+				<th>Price per Pack</th>
+		</tr>
+		<tr>
+			<td>30</td>
+			<td>$2</td>
+		</tr>
+	</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
